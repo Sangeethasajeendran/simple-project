@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-image: linear-gradient(to right, rgb(96, 159, 236) , rgb(178, 129, 193));
+}
+#menu{
+    position: 0;
+    background-color: beige;
+    width: 100%;
+    margin-top: 0px;
+}
+.links{
+    display: inline;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+html{
+    scroll-behavior: smooth;
+}
+a:hover{
+    font-size: 40px;
+    color: brown;
+}
+#taj{
+    position: sticky;
+    top: 50px;
+    background-color: antiquewhite;
+}
